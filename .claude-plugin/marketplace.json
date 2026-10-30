@@ -1,0 +1,5 @@
+{
+  "name": "usage-graphique",
+  "owner": { "name": "tuturanet07-arch" },
+  "plugins": [{ "name": "usage-graphique", "source": "./" }]
+}
