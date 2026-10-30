@@ -1,0 +1,8 @@
+{
+  "name": "usage-graphique",
+  "version": "0.1.0",
+  "description": "Panneau avec un graphique linéaire des tokens du jour, comparés à hier et à il y a 7 jours, pour l'onglet Code de Claude Desktop et Claude Code.",
+  "author": { "name": "tuturanet07-arch" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
